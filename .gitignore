@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2163379be0b72b3c38548b5dbeb2f5924e090a6c
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -23,6 +26,7 @@
 /nbbuild/
 /dist/
 /nbdist/
+<<<<<<< HEAD
 /.nb-gradle/
 =======
 target/
@@ -36,3 +40,6 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 >>>>>>> f33df4aeeaf274ff01f08651d93871cb093bb9fc
+=======
+/.nb-gradle/
+>>>>>>> 2163379be0b72b3c38548b5dbeb2f5924e090a6c
